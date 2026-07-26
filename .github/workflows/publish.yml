@@ -27,9 +27,6 @@ jobs:
           node-version: '20'
           registry-url: 'https://registry.npmjs.org/'
 
-      - name: Install Dependencies
-        run: npm ci
-
       # Optional build step if your project requires bundling/compilation
       # - name: Build Project
       #   run: npm run build
