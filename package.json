@@ -1,6 +1,6 @@
 {
   "name": "oocradio-api-wrapper",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "API Wrapper for the OOCRadio.com API. Bubble.io is very limited and sucks btw.",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,8 @@
     "OOCRadio",
     "API",
     "Wrapper",
-    "Hyperz"
+    "Hyperz",
+    "Boss Software Systems"
   ],
   "author": "Hyperz#0001",
   "license": "ISC",
